@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm amol Tribhuwan</h1>
-<h3 align="center">A passionate DevOps from India</h3>
+<h1 align="center">Hi 👋, I'm Amol Tribhuwan</h1>
+<h3 align="center">A passionate AWS & DevOps Engineer from Pune,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoltribhuwan05&label=Profile%20views&color=0e75b6&style=flat" alt="amoltribhuwan05" /> </p>
 
@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **AWS & DevOps**
 
 - 📫 How to reach me **amoltribhuwan05@gmail.com**
+
+- ⚡ Fun fact **I Think I Am Crazy About The Cloud Technology 💫**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
